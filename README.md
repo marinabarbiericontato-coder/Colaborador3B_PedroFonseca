@@ -1,1 +1,3 @@
-# Colaborador3B_PedroFonseca
+# Este repositorio esta compartilhado com os seguntis colaboradores
+## Marina
+## Isabelli
